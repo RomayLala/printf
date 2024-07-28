@@ -9,3 +9,4 @@ This function handles specific flag characters for non-custom conversion specifi
 This function  supports the following conversion specifiers and length modifiers:- `d` and `i` for signed integers, - `u` for unsigned integers, - `o` for octal numbers (not yet implemented), - `x` and `X` for hexadecimal numbers (not yet implemented), - `%` for percent sign.
 This function produces output according to a specified format string.
 This function handles various format specifiers, including precision for non-custom conversion specifiers.
+This function handles the `0` flag for zero-padding of integers.
