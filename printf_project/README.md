@@ -7,4 +7,4 @@ This function includes support for the standard conversion specifiers as well as
 This function handles the `%p` conversion specifier for printing pointer addresses.
 This function handles specific flag characters for non-custom conversion specifiers, including:- **`+`**: Forces a sign for numeric types. - **` ` (space)**: Inserts a space before positive numbers if no sign is given. - **`#`**: Used for alternate formatting.
 This function  supports the following conversion specifiers and length modifiers:- `d` and `i` for signed integers, - `u` for unsigned integers, - `o` for octal numbers (not yet implemented), - `x` and `X` for hexadecimal numbers (not yet implemented), - `%` for percent sign.
- 
+This function produces output according to a specified format string.

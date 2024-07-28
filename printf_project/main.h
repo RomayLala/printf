@@ -7,8 +7,9 @@
 
 int _putchar(char c); /* Prototype for _putchar */
 int _printf(const char *format, ...);
-int _print_number(int n);
+void _print_number(int num, int width);
 int _puts(char *str);
 int _print_string(char *str);
+void _print_number(int num, int width);
 
 #endif /* MAIN_H */
