@@ -10,4 +10,5 @@ This function  supports the following conversion specifiers and length modifiers
 This function produces output according to a specified format string.
 This function handles various format specifiers, including precision for non-custom conversion specifiers.
 This function handles the `0` flag for zero-padding of integers.
-This function handles  different format specifiers, including handling the `-` flag character for non-custom conversion specifiers.
+This function handles  different format specifiers, including handling the `-` flag character for non-custom conversion specifiersi.
+This function handles various format specifiers including a custom `%r` specifier which prints the reversed string.
