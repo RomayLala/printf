@@ -13,5 +13,6 @@ int _print_string(char *str);
 void _print_number(int num, int width);
 int print_reversed(va_list args);
 int print_integer(va_list args);
+void handle_rot13(char *str);
 
 #endif /* MAIN_H */
