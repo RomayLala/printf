@@ -1,1 +1,1 @@
-This repository contains functions for running a C language printf file.
+This function produces output according to a format.
